@@ -4,6 +4,7 @@ import EmployeeCard from "./EmployeeCard";
 import API from "../utils/API";
 import "../styles/Result.css";
 
+
 class SearchResultContainer extends Component {
   state = {
     result: [],
