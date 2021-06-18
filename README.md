@@ -2,7 +2,7 @@
 
 ## Description
 
-The employee directory is a single-page web application built with React. It uses data fetched from the Random Users API. A deployed version of this can be found here 
+The employee directory is a single-page web application built with React. It uses data fetched from the Random Users API. A deployed version of this can be found here https://wflores230.github.io/Employee-Directory-React/
 
 ## Installation
 
@@ -24,5 +24,6 @@ The employee directory is a single-page web application built with React. It use
 * Emails are generated as a mailto: link which will open your local machines' default email application.
 
 ## Link
+https://wflores230.github.io/Employee-Directory-React/
 
 ## Screenshots
