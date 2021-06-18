@@ -18,15 +18,11 @@ The employee directory is a single-page web application built with React. It use
 
 ## Usage
 
-* When the page loads, 20 users will be loaded in randomly from the Random Users API.
+* When the page loads, 200 users will be loaded in randomly from the Random Users API.
 * Start typing any name in the input field to filter the currently displayed users.
-* You can sort users alphabetically by name, either by ascending or descending order.
+* You can sort users alphabetically by name, phone number, email, or D-O-B either by ascending or descending order.
 * Emails are generated as a mailto: link which will open your local machines' default email application.
 
-## Demo
+## Link
 
-![Employee List](public/images/image1.png)
-
-![Name Search Filter](public/images/image2.png)
-
-![Reverse Sort by Name](public/images/image3.png)
+## Screenshots
