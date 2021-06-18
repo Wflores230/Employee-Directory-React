@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Wflores230.github.io/react-deploy",
+  "homepage": "https://wflores230.github.io/Employee-Directory-React/",
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
@@ -14,12 +14,12 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
